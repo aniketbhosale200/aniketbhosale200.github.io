@@ -4,3 +4,4 @@ plugins:
 title: [Aniket Bhosale portfolio]
 description: [My Mechanical and Robotics engineering portfolio]
 logo: /images/photo.jpg
+show_downloads: false
