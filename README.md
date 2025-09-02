@@ -2,6 +2,7 @@
 
 **Email:** aaniketbhosale95@gmail.com  
 **LinkedIn:** [linkedin.com/in/aaniketbhosale95](https://linkedin.com/in/aaniketbhosale95)  
+**Portfolio:** https://aniketbhosale200.github.io/  
 **Phone:** +1 (346) 471-9452  
 **Location:** Austin, TX  
 
