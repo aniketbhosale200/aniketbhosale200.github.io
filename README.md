@@ -14,10 +14,12 @@ Passionate Mechanical Engineering graduate with expertise in SolidWorks (CSWA, C
 - **MS Mechanical Engineering**  
   Texas A&M University, Kingsville, TX  
   May 2025  
+  GPA = 3.72/4
 
 - **BE Mechanical Engineering**  
   Shivaji University, MH, India  
-  Dec 2017  
+  Dec 2017
+  GPA = 3.1/4
 
 ## Skills
 
