@@ -1,4 +1,3 @@
-# aniketbhosale200.github.io
 # Aniket Bhosale
 
 **Email:** aaniketbhosale95@gmail.com  
@@ -60,10 +59,10 @@ June 2018 - January 2020
 
 ## Certifications
 
-- Certified SOLIDWORKS Professional (CSWP, 2025)  
-- Certified SolidWorks Associate (CSWA, 2025)  
-- ROS2 Nav2 with SLAM and Navigation (Udemy, 2025)  
-- ROS2 for Beginners Level 2 (Udemy, 2024)  
-- ROS2 For Beginners (Udemy, 2024)  
-- SOLIDWORKS and GDT (CADD Centre, 2018)  
-- Professional in Product Design and Analysis (CADD Centre, 2018)
+- [Certified SOLIDWORKS Professional (CSWP, 2025)](certificates/CSWP_C-3FBKN5XLCY.pdf)  
+- [Certified SolidWorks Associate (CSWA, 2025)](certificates/CSWA_C-37TJ8N4YZF.pdf)  
+- [ROS2 Nav2 with SLAM and Navigation (Udemy, 2025)](https://www.udemy.com/certificate/UC-07b0d254-013e-461f-9f44-ca6680fd6045/?utm_campaign=email&utm_medium=email&utm_source=sendgrid.com)  
+- [ROS2 for Beginners Level 2 (Udemy, 2024)](https://www.udemy.com/certificate/UC-9f66dbda-cdad-4f04-8e5b-02d91d89e69f/)  
+- [ROS2 For Beginners (Udemy, 2024)](https://www.udemy.com/certificate/UC-1b5b9c0d-df1e-4dd1-916e-c3aa5720a496/)  
+- [SOLIDWORKS and GDT (CADD Centre, 2018)](https://registry.caddcentre.com/ghbji.php?asdsad=aG1SN253WXNvdkIxeWxJVkFOS0E3NjdMZEd0WHd1YmZ3ZC9ENWQ3NmhsV1BqYy9yajBCRFYxc3E4d1hWdXVpYg==)  
+- [Professional in Product Design and Analysis (CADD Centre, 2018)](https://registry.caddcentre.com/ghbji.php?asdsad=aG1SN253WXNvdkIxeWxJVkFOS0E3NFZSSktMM3ErWnpmeUcvVmJoVnA4ZkI2VnNkamlkem5ZOFFRWThzdm8zag==)
