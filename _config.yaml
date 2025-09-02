@@ -2,6 +2,6 @@ remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 title: [Aniket Bhosale portfolio]
-# description: [My Mechanical and Robotics engineering portfolio]
+description: [Mechanical Design + Robotics Simulation | ROS2 · SolidWorks · Python · C++ · FEA | Seeking Design & Automation Roles]
 logo: /images/photo.jpg
 show_downloads: false
