@@ -19,7 +19,7 @@ Passionate Mechanical Engineering graduate with expertise in SolidWorks (CSWA, C
 
 - **BE Mechanical Engineering**  
   Shivaji University, MH, India  
-  Dec 2017
+  Dec 2017  
   GPA = 3.1/4.0
 
 ## Skills
