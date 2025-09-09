@@ -1,7 +1,21 @@
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
-title: [Aniket Bhosale portfolio]
+  - jekyll-remote-theme
+title: [Aniket Bhosale Portfolio]
 description: [Mechanical Design + Robotics Simulation | ROS2 · SolidWorks · Python · C++ · FEA | Seeking Design & Automation Roles]
 logo: /images/photo.jpg
 show_downloads: false
+
+# Custom navigation
+nav:
+  - title: "Home"
+    url: "/"
+  - title: "Projects"
+    url: "/projects/"
+    subnav:
+      - title: "Master’s Thesis Robot"
+        url: "/projects/thesis/"
+      - title: "Differential Drive Robot"
+        url: "/projects/differential/"
+      - title: "Mecanum Wheel Robot"
+        url: "/projects/mecanum/"
