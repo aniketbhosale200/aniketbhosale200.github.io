@@ -1,26 +1,37 @@
 # Aniket Bhosale
 
-**Email:** aaniketbhosale95@gmail.com  
-**LinkedIn:** [linkedin.com/in/aaniketbhosale95](https://linkedin.com/in/aaniketbhosale95)  
-**Portfolio:** https://aniketbhosale200.github.io/  
-**Phone:** +1 (346) 471-9452  
-**Location:** Austin, TX  
+[View My GitHub Profile](https://github.com/aniketbhosale200)
+
+## Contact
+- Email: aaniketbhosale95@gmail.com
+- LinkedIn: [linkedin.com/in/aaniketbhosale95](https://linkedin.com/in/aaniketbhosale95)
+- Portfolio: [https://aniketbhosale200.github.io/](https://aniketbhosale200.github.io/)
+- Phone: +1 (346) 471-9452
+- Location: Austin, TX
 
 ## Professional Summary
-
 Passionate Mechanical Engineering graduate with expertise in SolidWorks (CSWA, CSWP certified), ANSYS, ROS2, and robotics design, seeking to innovate as a Mechanical Design or Robotics Engineer by developing advanced, automated systems for real-world challenges.
 
+<!-- Add Dropdown Here -->
+<details>
+  <summary>Projects</summary>
+  <ul>
+    <li><a href="/projects/masters_thesis_robot/">Master’s Thesis Robot</a></li>
+    <li><a href="/projects/differential_drive_robot/">Differential Drive Robot</a></li>
+    <li><a href="/projects/mecanum_wheel_robot/">Mecanum Wheel Robot</a></li>
+  </ul>
+</details>
+
 ## Education
+MS Mechanical Engineering
+Texas A&M University, Kingsville, TX
+May 2025
+GPA = 3.72/4.0
 
-- **MS Mechanical Engineering**  
-  Texas A&M University, Kingsville, TX  
-  May 2025  
-  GPA = 3.72/4.0
-
-- **BE Mechanical Engineering**  
-  Shivaji University, MH, India  
-  Dec 2017  
-  GPA = 3.1/4.0
+BE Mechanical Engineering
+Shivaji University, MH, India
+Dec 2017
+GPA = 3.1/4.0
 
 ## Skills
 
