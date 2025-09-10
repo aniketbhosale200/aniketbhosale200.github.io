@@ -1,8 +1,13 @@
-## Projects
 
+---
+layout: default
+title: Projects
+---
 
-### Differential Drive Mobile Robot: Multi-Platform ROS2 Simulation with Sensor Integration  
+# Projects
 
-- Developed a differential drive robot in ROS2 Humble with Gazebo Classic, integrating LiDAR for 95% obstacle detection accuracy.  
-- Programmed navigation in Python/C++ with ros2_control, reducing path planning errors by 10%.  
+Explore my key engineering and robotics projects below:
 
+- [Master’s Thesis Robot]({{ site.baseurl }}/projects/master_s_thesis_robot/)
+- [Differential Drive Robot]({{ site.baseurl }}/projects/differential_drive_robot/)
+- [Mecanum Wheel Robot]({{ site.baseurl }}/projects/mecanum_wheel_robot/)
