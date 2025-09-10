@@ -13,9 +13,9 @@ nav:
   - title: "Projects"
     url: "/projects/"
     subnav:
-      - title: "Master’s Thesis Robot"
+      - title: "masters_thesis_robot"
         url: "/projects/thesis/"
-      - title: "Differential Drive Robot"
+      - title: "differential_drive_robot"
         url: "/projects/differential/"
-      - title: "Mecanum Wheel Robot"
+      - title: "mecanum_wheel_robot"
         url: "/projects/mecanum/"
