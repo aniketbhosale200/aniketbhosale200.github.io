@@ -20,7 +20,7 @@ Passionate Mechanical Engineering graduate with expertise in SolidWorks (CSWA, C
     <li><a href="/projects/differential_drive_robot/">Differential Drive Robot</a></li>
     <li><a href="/projects/mecanum_wheel_robot/">Mecanum Wheel Robot</a></li>
   </ul>
-</details>
+</details>  
 
 ## Education
 MS Mechanical Engineering
