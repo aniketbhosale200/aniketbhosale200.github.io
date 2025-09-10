@@ -1,3 +1,7 @@
+---
+layout: default
+title: Differential Drive Robot
+---
 ### Master’s Thesis: Design and Simulation of Agricultural Omnidirectional Robot using Semi-Circular Mecanum Double Wheel  
 
 - Designed an omnidirectional robot in SolidWorks with Semi-Circular Mecanum Double Wheels (SCMDW) and 6-DOF manipulator arm, improving navigation by 20% for fruit harvesting.  
