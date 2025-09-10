@@ -6,16 +6,9 @@ description: [Mechanical Design + Robotics Simulation | ROS2 · SolidWorks · Py
 logo: /images/photo.jpg
 show_downloads: false
 
-# Custom navigation
+# Simplified navigation
 nav:
   - title: "Home"
     url: "/"
   - title: "Projects"
     url: "/projects/"
-    subnav:
-      - title: "Master’s Thesis Robot"
-        url: "/projects/masters_thesis_robot/"
-      - title: "Differential Drive Robot"
-        url: "/projects/differential_drive_robot/"
-      - title: "Mecanum Wheel Robot"
-        url: "/projects/mecanum_wheel_robot/"
