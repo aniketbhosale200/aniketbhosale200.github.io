@@ -14,7 +14,7 @@ Passionate Mechanical Engineering graduate with expertise in SolidWorks (CSWA, C
 
 <!-- Add Dropdown Here -->
 <details>
-  <summary>projects</summary>
+  <summary style="font-size: 24px; color: red;">projects</summary>
   <ul>
     <li><a href="/projects/masters_thesis_robot/">Master’s Thesis Robot</a></li>
     <li><a href="/projects/differential_drive_robot/">Differential Drive Robot</a></li>
