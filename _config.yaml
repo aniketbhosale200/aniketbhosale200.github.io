@@ -14,8 +14,8 @@ nav:
     url: "/projects/"
     subnav:
       - title: "masters_thesis_robot"
-        url: "/projects/thesis/"
+        url: "/Projects/thesis/"
       - title: "differential_drive_robot"
-        url: "/projects/differential/"
+        url: "/Projects/differential/"
       - title: "mecanum_wheel_robot"
-        url: "/projects/mecanum/"
+        url: "/Projects/mecanum/"
