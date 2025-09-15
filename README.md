@@ -23,20 +23,20 @@ Passionate Mechanical Engineering graduate with expertise in SolidWorks (CSWA, C
 </details>  
 
 ## Education
-MS Mechanical Engineering
-Texas A&M University, Kingsville, TX
-May 2025
-GPA = 3.72/4.0
+MS Mechanical Engineering  
+Texas A&M University, Kingsville, TX  
+May 2025  
+GPA = 3.72/4.0  
 
-BE Mechanical Engineering
-Shivaji University, MH, India
-Dec 2017
-GPA = 3.1/4.0
+BE Mechanical Engineering  
+Shivaji University, MH, India  
+Dec 2017  
+GPA = 3.1/4.0  
 
 ## Skills
-Design (CAD, DFM): SolidWorks, CATIA v5, PTC Creo, AutoCAD
-Simulation, Analysis: ANSYS Workbench, MATLAB/Simulink, Abaqus
-Robotics: ROS2 (Humble / Jazzy), Gazebo (Harmonic), MoveIt-2, Rviz2, Python, C++
+**Design (CAD, DFM):** SolidWorks, CATIA v5, PTC Creo, AutoCAD
+**Simulation, Analysis:** ANSYS Workbench, MATLAB/Simulink, Abaqus
+**Robotics:** ROS2 (Humble / Jazzy), Gazebo (Harmonic), MoveIt-2, Rviz2, Python, C++
 
 ## Experience
 Mechanical Design Engineer
