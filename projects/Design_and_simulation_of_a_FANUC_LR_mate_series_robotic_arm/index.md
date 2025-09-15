@@ -45,6 +45,6 @@ Implemented trajectory planning in Simulink using cubic polynomial interpolation
 ###  Design and Simulation of FANUC 6-DOF Robotic Arm  
 ![FANUC 6 DOF Arm in Solidworks](/images/FANUC_arm.jpeg)
 
-###  MATLAB Simulation with custom GUI
+###  MATLAB Simulation ( Forward and Inverse kinematics) with custom GUI
 ![MATLAB simulation with GUI](/images/MATLAB.jpeg)
 
