@@ -41,3 +41,10 @@ Implemented trajectory planning in Simulink using cubic polynomial interpolation
 - **Robotics:** Forward & Inverse Kinematics, Jacobian-based IK, Trajectory Planning  
 - **Control & Interfaces:** GUI Development (App Designer), Feedback Loops, Stateflow  
 
+## Media  
+###  Design and Simulation of FANUC 6-DOF Robotic Arm  
+![FANUC 6 DOF Arm in Solidworks](/images/FANUC_arm.jpeg)
+
+###  MATLAB Simulation with custom GUI
+![MATLAB simulation with GUI](/images/MATLAB.jpeg)
+
