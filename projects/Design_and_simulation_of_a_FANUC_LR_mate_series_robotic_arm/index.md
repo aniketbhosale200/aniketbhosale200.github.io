@@ -15,7 +15,7 @@ Reverse-engineered and modeled a **6-DOF FANUC LR Mate–style robotic arm** in 
 
 ## Key Contributions  
 
-- **Modeled Robotic Arm in SolidWorks:**  
+- **Modeled Robotic Arm in SolidWorks**  
 Reverse-engineered a FANUC LR Mate–style 6-degree-of-freedom (DOF) robotic arm in SolidWorks 2022. Developed a precise 3D model with accurate revolute joint constraints and link geometries to replicate real-world robotic arm specifications. Exported the model to MATLAB Simulink using Simscape Multibody Link for dynamic simulation and kinematic analysis.  
 
 - **Performed Motion Simulations**
