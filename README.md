@@ -51,10 +51,10 @@ Designed jigs and fixtures following Design for Manufacturing (DFM) and Design f
 Contributed to value engineering and cost reduction initiatives, optimizing designs and material selection to achieve a 10% cost savings.
 
 ## Certifications
-Certified SOLIDWORKS Professional (CSWP, 2025)
-Certified SolidWorks Associate (CSWA, 2025)
-ROS2 Nav2 with SLAM and Navigation (Udemy, 2025)
-ROS2 for Beginners Level 2 (Udemy, 2024)
-ROS2 For Beginners (Udemy, 2024)
-SOLIDWORKS and GDT (CADD Centre, 2018)
-Professional in Product Design and Analysis (CADD Centre, 2018)
+-**Certified SOLIDWORKS Professional (CSWP, 2025)**  
+-**Certified SolidWorks Associate (CSWA, 2025)**  
+-**ROS2 Nav2 with SLAM and Navigation (Udemy, 2025)**  
+-**ROS2 for Beginners Level 2 (Udemy, 2024)**  
+-**ROS2 For Beginners (Udemy, 2024)**  
+-**SOLIDWORKS and GDT (CADD Centre, 2018)**  
+-**Professional in Product Design and Analysis (CADD Centre, 2018)**  
