@@ -39,10 +39,11 @@ GPA = 3.1/4.0
 -**Simulation, Analysis:** ANSYS Workbench, MATLAB/Simulink, Abaqus    
 -**Robotics:** ROS2 (Humble / Jazzy), Gazebo (Harmonic), MoveIt-2, Rviz2, Python, C++  
 
-## Experience
-Mechanical Design Engineer
-Budigita, Pune, MH, India
-June 2018 - January 2020
+## Experience  
+**Mechanical Design Engineer**  
+**Budigita**  
+*Pune, MH, India*    
+*June 2018 - January 2020*   
 
 - Engineered intricate 3D models for automotive and industrial components, including pump housings and gear casings, using SolidWorks, ensuring compliance with ISO 9001:2015, IATF 16949:2016 and client specifications.  
 - Created detailed 2D technical drawings with GD&T based on ISO 1101, applying shrinkage allowances, draft angles, and machining tolerances to support CNC machining and manufacturing processes.  
