@@ -21,14 +21,15 @@ Passionate Mechanical Engineering graduate with expertise in SolidWorks (CSWA, C
     <li><a href="/projects/mecanum_wheel_robot/">Mecanum Wheel Robot</a></li>
   </ul>
 </details>  
-
+  
+  
 ## Education
-MS Mechanical Engineering  
+**MS Mechanical Engineering**  
 Texas A&M University, Kingsville, TX  
 May 2025  
 GPA = 3.72/4.0    
 
-BE Mechanical Engineering  
+**BE Mechanical Engineering**  
 Shivaji University, MH, India  
 Dec 2017  
 GPA = 3.1/4.0  
