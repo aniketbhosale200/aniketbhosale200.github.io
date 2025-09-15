@@ -43,3 +43,9 @@ Created a comprehensive ROS2 Humble pipeline with Gazebo Classic, including node
 - **OS & Tools:** Linux, ros2_control, SW2URDF  
 
 ## Media  
+### 6-Inch Mecanum Wheel (Solidworks)
+![6-inch Mecanum Wheel in solidworks](/images/Mecanum_wheel.JPG)
+
+
+
+
