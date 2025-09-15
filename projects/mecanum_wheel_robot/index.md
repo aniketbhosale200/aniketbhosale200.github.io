@@ -13,8 +13,6 @@ Designed and simulated an omnidirectional mecanum wheel robot using advanced rob
 
 ## Key Contributions  
 
-
-
 - **Engineered Custom Mecanum Wheels**  
 Designed 6-inch mecanum wheels with 12 external rollers (non-enclosed) in SolidWorks → enhanced omnidirectional mobility by 25% through optimized roller geometry and weight distribution for smooth, precise movement.
 
