@@ -55,4 +55,14 @@ Designed and simulated a **novel agricultural robot** featuring a custom **Semi-
 ---
 
 ## Media  
+### Robot with Semi-Circular Wheels and Arm  
+![Robot with SMDW and Arm](/images/Robot_with_Semi-circular_wheels_and_6-DOF_Robotic_arm_with_Gripper.jpeg)
 
+### Robot Chassis with SMDW  
+![Robot Chassis with SMDW](/images/Robot_chassis_with_Semi-circular_mecanum_double_wheels.jpeg)
+
+### Semi-Circular Mecanum Wheel  
+![Semi-Circular Mecanum Wheel](/images/semi_circular_mecanum_wheel.jpeg)
+
+### Exploded View of 6-DOF Robotic Arm  
+![Exploded View of Arm](/images/Exploded_view_of_6_DOF_robotic_arm.jpeg)
