@@ -44,12 +44,12 @@ Mechanical Design Engineer
 Budigita, Pune, MH, India
 June 2018 - January 2020
 
--Engineered intricate 3D models for automotive and industrial components, including pump housings and gear casings, using SolidWorks, ensuring compliance with ISO 9001:2015, IATF 16949:2016 and client specifications.  
--Created detailed 2D technical drawings with GD&T based on ISO 1101, applying shrinkage allowances, draft angles, and machining tolerances to support CNC machining and manufacturing processes.  
--Collaborated with foundry and manufacturing teams to optimize designs for casting compatibility, improving production efficiency by 12%. Conducted Finite Element Analysis (FEA) using ANSYS Workbench to validate component performance under stress and thermal conditions, reducing design iterations by 15%.  
--Streamlined BOM creation process by implementing a centralized database, reducing errors by 15% and slashing BOM generation time by 20 hours per week, directly improving production efficiency.  
--Designed jigs and fixtures following Design for Manufacturing (DFM) and Design for Assembly (DFA) principles, reducing assembly setup time by 10%. Partnered with QA teams to perform material testing and Coordinate Measuring Machine (CMM) inspections, ensuring product quality and adherence to standards.  
--Contributed to value engineering and cost reduction initiatives, optimizing designs and material selection to achieve a 10% cost savings.  
+- Engineered intricate 3D models for automotive and industrial components, including pump housings and gear casings, using SolidWorks, ensuring compliance with ISO 9001:2015, IATF 16949:2016 and client specifications.  
+- Created detailed 2D technical drawings with GD&T based on ISO 1101, applying shrinkage allowances, draft angles, and machining tolerances to support CNC machining and manufacturing processes.  
+- Collaborated with foundry and manufacturing teams to optimize designs for casting compatibility, improving production efficiency by 12%. Conducted Finite Element Analysis (FEA) using ANSYS Workbench to validate component performance under stress and thermal conditions, reducing design iterations by 15%.  
+- Streamlined BOM creation process by implementing a centralized database, reducing errors by 15% and slashing BOM generation time by 20 hours per week, directly improving production efficiency.  
+- Designed jigs and fixtures following Design for Manufacturing (DFM) and Design for Assembly (DFA) principles, reducing assembly setup time by 10%. Partnered with QA teams to perform material testing and Coordinate Measuring Machine (CMM) inspections, ensuring product quality and adherence to standards.  
+- Contributed to value engineering and cost reduction initiatives, optimizing designs and material selection to achieve a 10% cost savings.  
 
 
 ## Certifications
